@@ -7,7 +7,7 @@ import WhoAreWe from '../components/WhoAreWe'
 import Team from '../components/Team'
 import Reservation from '../components/Reservation'
 import Footer from '../components/Footer'
-import Success from './Success'
+import Success from '../Pages/Success'
 
 
 
