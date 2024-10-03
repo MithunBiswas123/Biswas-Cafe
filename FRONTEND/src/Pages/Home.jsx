@@ -7,7 +7,7 @@ import WhoAreWe from '../components/WhoAreWe'
 import Team from '../components/Team'
 import Reservation from '../components/Reservation'
 import Footer from '../components/Footer'
-import Success from '../Pages/Success'
+// import Success from '../Pages/Success'
 
 
 
@@ -23,7 +23,7 @@ const Home = () => {
     <Team />
     <Reservation />
     <Footer />
-    <Success />
+    {/* <Success /> */}
     </>
   )
 }

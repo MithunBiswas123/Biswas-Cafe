@@ -30,7 +30,7 @@ const Success = () => {
     
         <section className='notfound'>
           <div className="container">
-            <img src="/sandwhich.png" alt="success" />
+            <img src="/sandwich.png" alt="success" />
             <h1>Redirecting to Home in {countdown}seconds...</h1>
             <Link to={'/'}>Back to Home <HiOutlineArrowNarrowRight/></Link>
           </div>

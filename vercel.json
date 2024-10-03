@@ -1,0 +1,16 @@
+{
+    "version":2,
+    "name":"FOOD WEBSITE",
+    "builds":[
+        {
+            "src":"app.js",
+            "use":"@vercel/node"
+        }
+    ],
+    "routes":[
+        {
+            "src":"/api/food",
+            "dest":"app.js"
+        }
+    ]
+}
